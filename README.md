@@ -1,5 +1,5 @@
 # Training Bot
-This is a basic RNN model I've made just to learn how. I've left the `requirements.txt` empty, so you'll need to populate it as is needed. (just pay attention to licensing if you intend on handing out your model) Note that unless you take additional steps, this will use your CPU.
+This is a basic RNN model I've made just to learn how. I've left the `requirements.txt` empty, so you'll need to populate it as is needed. (just pay attention to licensing if you intend on handing out your model) It reads top down, so just paste the repositories with no delimiters. (aka, paste then press enter) Note that unless you take additional steps, this will use your CPU.
 
 # Jupyter Notebook
 
