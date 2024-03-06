@@ -1,0 +1,8 @@
+streamlit
+torch==1.10.0
+streamlit_antd_components==0.3.2
+nltk
+gunicorn
+flask
+requests
+flask-cors
